@@ -1,0 +1,56 @@
+* {
+    padding: 0px;
+    margin: 0px;
+  }
+  
+  .outer {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .inner {
+    width: 85%;
+    margin: 5px auto;
+  }
+  
+  .heading {
+    text-align: center;
+    padding: 20px 0px;
+    font-family: serif;
+  }
+  
+  img {
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+  }
+  
+  .card {
+    border: none;
+    color: rgb(79, 78, 78);
+  }
+  
+  .card {
+    transition: transform 0.4s;
+    border-radius: 10px;
+  }
+  
+  .card:hover {
+    transform: scale(1.06);
+    box-shadow: 0 0 10px rgba(33, 33, 33, 0.2);
+    border-radius: 20px;
+    background-color: aliceblue;
+    cursor: pointer;
+  }
+  
+  p {
+    font-size: 10px;
+  }
+  
+  /* loading time */
+  body {
+    background-image: url("https://media.istockphoto.com/vectors/nail-polish-bottle-seamless-pattern-beauty-salon-manicure-backg-vector-id875977406");
+    background-size: cover;
+    height: 100vh;
+  }
+  
