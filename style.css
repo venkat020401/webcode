@@ -13,7 +13,7 @@ body {
 .dropdown {
   position: relative;
   display: inline-block;
-  margin-top: 10px;
+  margin-top: 12px;
 }
 
 .dropdown-content {
@@ -28,7 +28,7 @@ body {
 
 .dropdown:hover .dropdown-content {
   display: block;
-  padding-top: 15px;
+  padding-top: 18px;
 }
 
 a {
@@ -54,5 +54,5 @@ span:hover {
 button {
   background: none;
   border: none;
-  margin-bottom: 26px;
+  margin-bottom: 28px;
 }
