@@ -10,7 +10,7 @@ var span = document.createElement("span");
 span.innerHTML="Select Here";
 var div2 = document.createElement("div");
 div2.setAttribute("class","dropdown-content");
-var b1 = create_a("a","href","https://comfy-tapioca-5cc70e.netlify.app/","Blush");
+var b1 = create_a("a","href","https://deluxe-granita-624dfa.netlify.app/","Blush");
 var br1 = document.createElement("br");
 var b2 = create_a("a","href","https://animated-lebkuchen-f03c91.netlify.app/","Bronzer");
 var br2 = document.createElement("br");
